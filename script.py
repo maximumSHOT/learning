@@ -1,1 +1,3 @@
-print("Hello! I'm python")
+def getPerson(name, surname):
+	return name + " " + surname
+
